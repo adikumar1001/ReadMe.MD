@@ -34,9 +34,22 @@ I'm currently pursuing my **Master of Science in Business Analytics** at the Ise
 
 ## 🛠 Technical Skills
 
-**Languages:** Python, R, SQL, Java, C++, JavaScript  
-**Tools & Platforms:** Splunk, Dynatrace, Tableau, Power BI, Autosys, Alteryx, Toad, AppDynamics  
-**Skills:** Data Analysis, Machine Learning, Diagnostics & Troubleshooting, Change Management, Stakeholder Communication
+**Languages & Tools:**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Alteryx](https://img.shields.io/badge/-Alteryx-005B96?style=flat&logo=dataiku&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/-Dynatrace-43B02A?style=flat&logo=dynatrace&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 
 ---
 
